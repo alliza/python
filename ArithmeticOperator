@@ -1,0 +1,5 @@
+s = int(raw_input().strip())
+w = int(raw_input().strip())
+print(s + w )
+print(s - w)
+print(s * w)
